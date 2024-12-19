@@ -1,3 +1,4 @@
-TOKEN = "твой_токен_от_бота"
-THE_CAT_API_KEY = "твой_ключ_TheCatAPI"
-NASA_API_KEY = "твой_ключ_NASA_API"
+TOKEN = "7748914607:AAHpru-w2AEAh0D8kJViM3bGsGMl5dSrvsc"
+THE_CAT_API_KEY = "live_6MSgZrrvSqGDxbFZkTh7D3W9LfWcBO4WwOJaMaYlnzZsgXlZQstHITg46i0GqWyA"
+NASA_API_KEY = "kQopsEgK53BiSP25Gda0IYehnZ3eNcY8cLNqjVfg"
+SPOONACULAR_API_KEY = "8f0359ac9c8c479b84cebdde8672e61f"
